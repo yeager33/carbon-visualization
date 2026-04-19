@@ -1,0 +1,96 @@
+{
+  "companies": [
+    {
+      "name": "华阳股份",
+      "type": "转型先锋",
+      "data": [
+        { "year": 2019, "carbonIntensity": 0.54, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 4.5 },
+        { "year": 2020, "carbonIntensity": 0.60, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 4.5 },
+        { "year": 2021, "carbonIntensity": 6.08, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 4.5 },
+        { "year": 2022, "carbonIntensity": 7.66, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 4.5 },
+        { "year": 2023, "carbonIntensity": 5.58, "complianceRate": 100, "greenPowerRatio": 18, "bondRate": 4.68 },
+        { "year": 2024, "carbonIntensity": 3.50, "complianceRate": 100, "greenPowerRatio": 35, "bondRate": 2.8 }
+      ]
+    },
+    {
+      "name": "山西焦煤",
+      "type": "煤炭",
+      "data": [
+        { "year": 2019, "carbonIntensity": 9.05, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 4.5 },
+        { "year": 2020, "carbonIntensity": 8.20, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": null },
+        { "year": 2021, "carbonIntensity": 7.00, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 3.9 },
+        { "year": 2022, "carbonIntensity": 5.80, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 3.01 },
+        { "year": 2023, "carbonIntensity": 3.94, "complianceRate": 100, "greenPowerRatio": 2, "bondRate": null },
+        { "year": 2024, "carbonIntensity": 2.08, "complianceRate": 100, "greenPowerRatio": 5, "bondRate": 2.33 }
+      ]
+    },
+    {
+      "name": "潞安环能",
+      "type": "煤炭",
+      "data": [
+        { "year": 2019, "carbonIntensity": 11.8, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 5.34 },
+        { "year": 2020, "carbonIntensity": 10.5, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 5.34 },
+        { "year": 2021, "carbonIntensity": 9.20, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 5.34 },
+        { "year": 2022, "carbonIntensity": 7.90, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 5.34 },
+        { "year": 2023, "carbonIntensity": 5.50, "complianceRate": 100, "greenPowerRatio": 8, "bondRate": 5.43 },
+        { "year": 2024, "carbonIntensity": 3.21, "complianceRate": 100, "greenPowerRatio": 18, "bondRate": null }
+      ]
+    },
+    {
+      "name": "太钢不锈",
+      "type": "先进制造",
+      "data": [
+        { "year": 2019, "carbonIntensity": 3.01, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 3.7 },
+        { "year": 2020, "carbonIntensity": 2.65, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 2.8 },
+        { "year": 2021, "carbonIntensity": 2.33, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": null },
+        { "year": 2022, "carbonIntensity": 2.05, "complianceRate": 100, "greenPowerRatio": 4, "bondRate": 3.98 },
+        { "year": 2023, "carbonIntensity": 1.80, "complianceRate": 100, "greenPowerRatio": 10, "bondRate": 2.8 },
+        { "year": 2024, "carbonIntensity": 0.80, "complianceRate": 100, "greenPowerRatio": 16, "bondRate": 2.27 }
+      ]
+    },
+    {
+      "name": "晋控电力",
+      "type": "火电",
+      "data": [
+        { "year": 2019, "carbonIntensity": 27.3, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 7.0 },
+        { "year": 2020, "carbonIntensity": 25.0, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 5.79 },
+        { "year": 2021, "carbonIntensity": 25.5, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 7.5 },
+        { "year": 2022, "carbonIntensity": 17.7, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 5.18 },
+        { "year": 2023, "carbonIntensity": 17.4, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 5.6 },
+        { "year": 2024, "carbonIntensity": 8.50, "complianceRate": 100, "greenPowerRatio": 15, "bondRate": 2.7 }
+      ]
+    },
+    {
+      "name": "蓝焰控股",
+      "type": "清洁能源",
+      "data": [
+        { "year": 2019, "carbonIntensity": 1.50, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": null },
+        { "year": 2020, "carbonIntensity": 1.42, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 3.38 },
+        { "year": 2021, "carbonIntensity": 1.34, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 3.38 },
+        { "year": 2022, "carbonIntensity": 1.26, "complianceRate": 100, "greenPowerRatio": 0, "bondRate": 3.38 },
+        { "year": 2023, "carbonIntensity": 1.20, "complianceRate": 100, "greenPowerRatio": 12, "bondRate": 3.65 },
+        { "year": 2024, "carbonIntensity": 1.15, "complianceRate": 100, "greenPowerRatio": 25, "bondRate": 3.65 }
+      ]
+    }
+  ],
+  "industryBenchmark": {
+    "carbonIntensity": 4.26,
+    "complianceRate": 100,
+    "greenPowerRatio": 27.5
+  },
+  "sankeyData": {
+    "nodes": [
+      { "name": "碳强度" },
+      { "name": "履约率" },
+      { "name": "绿电比例" },
+      { "name": "碳信用分" },
+      { "name": "债券利率" }
+    ],
+    "links": [
+      { "source": "碳强度", "target": "碳信用分", "value": 40 },
+      { "source": "履约率", "target": "碳信用分", "value": 35 },
+      { "source": "绿电比例", "target": "碳信用分", "value": 25 },
+      { "source": "碳信用分", "target": "债券利率", "value": 100 }
+    ]
+  }
+}
